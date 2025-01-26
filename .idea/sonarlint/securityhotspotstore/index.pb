@@ -9,3 +9,5 @@ O
 contracts/material-listing.clar,e/d/ed5c3056735184a55abf7cb5f9de11050c3b99e4
 N
 tests/material-listing.test.ts,e/8/e81435a0121ca8404bc71c558f16bd41bc622e96
+O
+contracts/upcycled-product.clar,5/7/575ec0943f1f3ce1515afc54a7c4966593efb638

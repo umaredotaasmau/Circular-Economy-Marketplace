@@ -54,4 +54,14 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/marketplace.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: material-listing
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/material-listing.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: upcycled-product
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/upcycled-product.clar
+            clarity-version: 2
       epoch: "2.5"
