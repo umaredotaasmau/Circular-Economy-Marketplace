@@ -7,3 +7,5 @@ I
 tests/marketplace.test.ts,9/5/95227c39b395fbc864f16d5183388b838084c883
 O
 contracts/material-listing.clar,e/d/ed5c3056735184a55abf7cb5f9de11050c3b99e4
+N
+tests/material-listing.test.ts,e/8/e81435a0121ca8404bc71c558f16bd41bc622e96
