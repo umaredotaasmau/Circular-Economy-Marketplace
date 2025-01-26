@@ -11,3 +11,5 @@ N
 tests/material-listing.test.ts,e/8/e81435a0121ca8404bc71c558f16bd41bc622e96
 O
 contracts/upcycled-product.clar,5/7/575ec0943f1f3ce1515afc54a7c4966593efb638
+N
+tests/upcycled-product.test.ts,a/b/ab9864b8e46253e70af57717d32f8daacff8cdd9
